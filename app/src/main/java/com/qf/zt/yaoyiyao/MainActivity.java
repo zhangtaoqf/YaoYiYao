@@ -17,6 +17,9 @@ import android.view.animation.AnimationSet;
 import android.view.animation.TranslateAnimation;
 import android.widget.ImageView;
 
+/**
+ * 哈哈这是我的代码
+ */
 public class MainActivity extends AppCompatActivity {
 
     private ImageView imageView_main_logoup;
